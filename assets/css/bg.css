@@ -1,0 +1,13 @@
+.bg-new-w {
+    background-image: url("../images/airport.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.bg-new-ga {
+    background: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.9)), url("../images/airport.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
